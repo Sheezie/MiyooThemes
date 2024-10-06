@@ -6,14 +6,12 @@ Most themes have 'alts' folder for alternative styles. Requires manually moving/
 
 Themes are not authorized for commercial use
 
-![Pokemon TCG](https://github.com/user-attachments/assets/c808d75d-aaeb-4869-a41d-0bf01a54a799)
+![Pokemon TCG (Custom)](https://github.com/user-attachments/assets/b6767d2d-80b8-45e6-a6b7-1671f9f06023)
 
-![Kirby](https://github.com/user-attachments/assets/b1b9d718-d454-4beb-9272-739d1420269e)
+![Kirby (Custom)](https://github.com/user-attachments/assets/6ec9e659-40e0-42f7-99c3-7dcc2d0e8b92)
 
-![Pokemon Mystery Dungeon](https://github.com/user-attachments/assets/4309e917-30eb-43e4-933e-f0be8a21ed6a)
+![Capcom VS SNK (Custom)](https://github.com/user-attachments/assets/02e16f1d-a2b8-4f86-b0f9-0930970fa591)
 
-![Capcom VS SNK](https://github.com/user-attachments/assets/304d5a90-95ab-4ce9-8de0-23db116e514f)
+![Sonic Origins (Custom)](https://github.com/user-attachments/assets/aa51e4ed-0adb-439c-b9f7-4a83a6eb59ba)
 
-![Sonic Origins](https://github.com/user-attachments/assets/83ccbaf2-ebf1-495c-b164-abf9573829d9)
-
-![2CleanMini Preview](https://github.com/user-attachments/assets/6ca9b04a-e2a9-4f93-a295-c66e9583f438)
+![2CleanMini Preview (Custom)](https://github.com/user-attachments/assets/33b79235-198d-475f-8e97-c934ff9939b4)
