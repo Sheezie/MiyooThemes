@@ -6,7 +6,7 @@ Most themes have 'alts' folder for alternative styles. Requires manually moving/
 
 Themes are not authorized for commercial use
 
-![Pokemon TCG (Custom)](https://github.com/user-attachments/assets/b6767d2d-80b8-45e6-a6b7-1671f9f06023)
+[![Pokemon TCG (Custom)](https://github.com/user-attachments/assets/b6767d2d-80b8-45e6-a6b7-1671f9f06023)](https://github.com/Sheezie/MiyooThemes/raw/refs/heads/main/Pokemon%20TCG%20(Handheld%20Filter)%20by%20Sheezie.zip)
 
 ![Kirby (Custom)](https://github.com/user-attachments/assets/6ec9e659-40e0-42f7-99c3-7dcc2d0e8b92)
 
