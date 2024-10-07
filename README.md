@@ -4,6 +4,8 @@ All themes have NDS included
 
 Most themes have 'alts' folder for alternative styles. Requires manually moving/overwriting files.
 
+By default, game artwork is hidden in my themes. I hide it because it covers the game list text and I'm not a fan of how it looks. You can still view your scraped artwork by pressing RIGHT on the d-pad this way. To have your scraped artwork show up in the game list, copy *preview.png* from the 'alts' folder to the main 'skin' folder and overwrite the old file.
+
 For best experience, please update OnionUI firmware to at least 4.3.1-1 (this update removes the built-in drop shadow)
 
 Also available to download on [OnionUI's Themes page](https://github.com/OnionUI/Themes/tree/main)
