@@ -14,13 +14,13 @@ Also available to download on [OnionUI's Themes page](https://github.com/OnionUI
 
 
 ## Pokemon FireRed LeafGreen (Handheld Filter)
-[![Pokemon FireRed LeafGreen Preview (Custom)](https://github.com/user-attachments/assets/1255a5ce-4004-4578-8eae-471b85129480)](https://github.com/Sheezie/MiyooThemes/blob/main/Pokemon%20Fire%20Red%20Leaf%20Green%20(Handheld%20Filter)%20by%20Sheezie.zip)
+[![Pokemon FireRed LeafGreen Preview (Custom)](https://github.com/user-attachments/assets/1255a5ce-4004-4578-8eae-471b85129480)](https://github.com/Sheezie/MiyooThemes/raw/refs/heads/main/Pokemon%20Fire%20Red%20Leaf%20Green%20(Handheld%20Filter)%20by%20Sheezie.zip)
 - 58 icon set
 - Icon set has 'selected' version
 - Animated charging animation
 - Has sound effect
-- [Download here](https://github.com/Sheezie/MiyooThemes/blob/main/Pokemon%20Fire%20Red%20Leaf%20Green%20(Handheld%20Filter)%20by%20Sheezie.zip)
-- [Filterless version also available](https://github.com/Sheezie/MiyooThemes/blob/main/Pokemon%20Fire%20Red%20Leaf%20Green%20by%20Sheezie.zip)
+- [Download here](https://github.com/Sheezie/MiyooThemes/raw/refs/heads/main/Pokemon%20Fire%20Red%20Leaf%20Green%20(Handheld%20Filter)%20by%20Sheezie.zip)
+- [Filterless version also available](https://github.com/Sheezie/MiyooThemes/raw/refs/heads/main/Pokemon%20Fire%20Red%20Leaf%20Green%20by%20Sheezie.zip)
 
 ## Pokemon Trading Card Game (Handheld Filter)
 [![Pokemon TCG (Custom)](https://github.com/user-attachments/assets/b6767d2d-80b8-45e6-a6b7-1671f9f06023)](https://github.com/Sheezie/MiyooThemes/raw/refs/heads/main/Pokemon%20TCG%20(Handheld%20Filter)%20by%20Sheezie.zip)
