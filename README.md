@@ -14,13 +14,13 @@ Also available to download on [OnionUI's Themes page](https://github.com/OnionUI
 
 
 ## Sanrio Pixels (Handheld Filter)
-[![Sanrio Pixels](https://github.com/user-attachments/assets/1ef0a05b-a7e7-4736-8c05-d3c43bd6090d)](https://github.com/user-attachments/files/21946852/Sanrio.Pixels.Handheld.Filter.by.Sheezie.zip)
-- 58 icon set
+[![Sanrio Pixels](https://github.com/user-attachments/assets/1ef0a05b-a7e7-4736-8c05-d3c43bd6090d)](https://github.com/Sheezie/MiyooThemes/raw/refs/heads/main/Sanrio%20Pixels%20(Handheld%20Filter)%20by%20Sheezie.zip)
+- 56 icon set
 - Icon set has 'selected' version
 - Animated charging animation
 - Has sound effect
-- [Download here](https://github.com/user-attachments/files/21946852/Sanrio.Pixels.Handheld.Filter.by.Sheezie.zip)
-- [Filterless version also available](https://github.com/user-attachments/files/21946854/Sanrio.Pixels.by.Sheezie.zip)
+- [Download here](https://github.com/Sheezie/MiyooThemes/raw/refs/heads/main/Sanrio%20Pixels%20(Handheld%20Filter)%20by%20Sheezie.zip)
+- [Filterless version also available](https://github.com/Sheezie/MiyooThemes/raw/refs/heads/main/Sanrio%20Pixels%20by%20Sheezie.zip)
 
 ## Pokemon FireRed LeafGreen (Handheld Filter)
 [![Pokemon FireRed LeafGreen Preview (Custom)](https://github.com/user-attachments/assets/1255a5ce-4004-4578-8eae-471b85129480)](https://github.com/Sheezie/MiyooThemes/raw/refs/heads/main/Pokemon%20Fire%20Red%20Leaf%20Green%20(Handheld%20Filter)%20by%20Sheezie.zip)
